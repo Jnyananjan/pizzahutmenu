@@ -23,7 +23,7 @@ export default function MenuSection({ category, onBack }: MenuSectionProps) {
     rice: "Rice Bowls",
     breads: "Breads",
     appetizer: "Appetizers",
-    
+    beverage: "Beverages",
   
   }
 
