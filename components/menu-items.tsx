@@ -80,6 +80,13 @@ const menuData: Record<string, MenuItem[]> = {
       price: "₹429",
       image: "garden-fresh-pizza.jpg",
     },
+    {
+      id: "11",
+      name: "Marghrita Pizza",
+      description: "Classic toato, mozzarella, basil",
+      price: "₹39",
+      image: "margheta-pizza.jpg",
+    },
   ],
   burger: [
     {
