@@ -24,6 +24,7 @@ export default function MenuSection({ category, onBack }: MenuSectionProps) {
     breads: "Breads",
     appetizer: "Appetizers",
     beverage: "Beverages",
+    bevage: "Aeveges",
   }
 
   return (
