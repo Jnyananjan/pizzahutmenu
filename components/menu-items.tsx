@@ -688,6 +688,9 @@ const menuData: Record<string, MenuItem[]> = {
     { id: "9", name: "Buttermilk", description: "Chilled spiced buttermilk", price: "₹69", image: "buttermilk.jpg" },
     { id: "10", name: "Coconut Water", description: "Fresh tender coconut", price: "₹89", image: "coconut-water.jpg" },
   ],
+  jana: [
+    {id: "1", name' "jana", description: "jana", price: "69", image: "jana.jpg"},
+  ],
 }
 
 interface MenuItemsProps {
