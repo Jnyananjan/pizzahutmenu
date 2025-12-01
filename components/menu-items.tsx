@@ -159,24 +159,24 @@ const menuData: Record<string, MenuItem[]> = {
   biryani: [
     {
       id: "1",
-      name: "Hyderabadi Chicken",
-      description: "Fragrant basmati rice",
+      name: Chicken Hyderabadi Biryani",
+      description: "Fragrant basmati rice with chicken pieces",
       price: "₹349",
-      image: "hyderabadi-chicken-biryani.jpg",
+      image: "chicken-hyderabadi-biryani.jpg",
     },
     {
       id: "2",
-      name: "Mutton Biryani",
+      name: "Mutton Hyderabadi Biryani",
       description: "Tender mutton pieces",
       price: "₹449",
-      image: "mutton-biryani.jpg",
+      image: "mutton-hyderabadi-biryani.jpg",
     },
     {
       id: "3",
-      name: "Vegetable Biryani",
+      name: "Veg Biryani",
       description: "Mixed vegetables with spices",
       price: "₹299",
-      image: "vegetable-biryani.jpg",
+      image: "veg-biryani.jpg",
     },
     {
       id: "4",
@@ -187,33 +187,14 @@ const menuData: Record<string, MenuItem[]> = {
     },
     {
       id: "5",
-      name: "Prawns Biryani",
-      description: "Fresh prawns with rice",
+      name: "Chicken Biryani",
+      description: "Delicate Chicken pieces",
       price: "₹549",
-      image: "prawns-biryani.jpg",
+      image: "chicken-biryani.jpg",
     },
-    { id: "6", name: "Fish Biryani", description: "Delicate fish pieces", price: "₹499", image: "fish-biryani.jpg" },
-    { id: "7", name: "Egg Biryani", description: "Boiled eggs layered", price: "₹279", image: "egg-biryani.jpg" },
-    {
-      id: "8",
-      name: "Lucknowi Biryani",
-      description: "Traditional Lucknow style",
-      price: "₹399",
-      image: "lucknowi-biryani.jpg",
+    { id: "6", name: "Mutton Biryani", description: "Delicate Mutton pieces", price: "₹499", image: "mutton-biryani.jpg"
     },
-    {
-      id: "9",
-      name: "Dum Pukht Chicken",
-      description: "Slow cooked chicken",
-      price: "₹429",
-      image: "dum-pukht-chicken.jpg",
-    },
-    {
-      id: "10",
-      name: "Mixed Biryani",
-      description: "Chicken and mutton blend",
-      price: "₹499",
-      image: "mixed-biryani.jpg",
+    { id: "7", name: "Egg Biryani", description: "Boiled eggs layered", price: "₹279", image: "egg-biryani.jpg" 
     },
   ],
   salad: [
