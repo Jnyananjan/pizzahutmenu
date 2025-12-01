@@ -21,7 +21,7 @@ const allCategories: Category[] = [
   { id: "seafood", name: "Seafood", image: "seafood.jpg" },
   { id: "tandoori", name: "Tandoori", image: "tandoori.jpg" },
   { id: "noodles", name: "Noodles", image: "noodles.jpg" },
-  { id: "rice", name: "Rice Bowls", image: "rice.jpg" },
+  { id: "ric", name: "RicBowls", image: "rice.jpg" },
   { id: "breads", name: "Breads", image: "breads.jpg" },
   { id: "appetizer", name: "Appetizers", image: "appetizer.jpg" },
   { id: "beverage", name: "Beverages", image: "beverage.jpg" },
