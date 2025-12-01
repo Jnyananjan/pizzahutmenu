@@ -117,7 +117,7 @@ const menuData: Record<string, MenuItem[]> = {
       price: "₹379",
       image: "chicken-maharaja-burger.jpg",
     },
-    ]
+    ],
   pasta: [
     {
       id: "1",
