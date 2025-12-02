@@ -10,7 +10,7 @@ interface Category {
 }
 
 const allCategories: Category[] = [
-  { id: "pizza", name: "Pizza", image: "pizza.jpg" },
+  { id: "pizza", name: "Pizza", icon: "🍕" },
   { id: "burger", name: "Burgers", image: "burger.jpg" },
   { id: "pasta", name: "Pasta", image: "pasta.jpg" },
   { id: "biryani", name: "Biryani", image: "biryani.jpg" },
