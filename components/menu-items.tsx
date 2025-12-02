@@ -404,47 +404,69 @@ const menuData: Record<string, MenuItem[]> = {
       image: "chicken-reshmi-kebab.jpg",
     },
   ],
-  seafood: [
-    { id: "1", name: "Grilled Fish", description: "Fresh fish with herbs", price: "₹449", image: "grilled-fish.jpg" },
+  tandooribreads: [
+    { id: "1", name: "Tandoori Roti", description: "A soft, flatbread, cooked traditionally in a cylindrical clay oven called a tandoor.", price: "₹449", image: "tandoori-roti.jpg" },
     {
       id: "2",
-      name: "Butter Garlic Shrimp",
-      description: "Succulent prawns in butter",
+      name: "Butter Roti",
+      description: "Roti in butter",
       price: "₹499",
-      image: "butter-garlic-shrimp.jpg",
+      image: "butter-roti.jpg",
     },
-    { id: "3", name: "Crab Curry", description: "Spiced crab in coconut", price: "₹549", image: "crab-curry.jpg" },
+    { id: "3", name: "Plain Naan", description: "A soft, leavened Indian flatbread with a slightly chewy, pillowy texture, traditionally baked in a tandoor oven.", price: "₹549", image: "plain-naan.jpg" },
     {
       id: "4",
-      name: "Fish Amritsari",
-      description: "Crispy battered fish",
+      name: "Butter Naan",
+      description: "A soft, leavened Indian flatbread, traditionally baked in a tandoor and generously brushed with melted butter.",
       price: "₹399",
-      image: "fish-amritsari.jpg",
+      image: "butter-naan.jpg",
     },
     {
       id: "5",
-      name: "Squid Pepper Fry",
-      description: "Calamari with cracked pepper",
+      name: "Masala Kulcha",
+      description: "A soft, leavened North Indian flatbread, often stuffed with a spiced mixture of potatoes, onions, or paneer and typically served with chickpea curry.",
       price: "₹429",
-      image: "squid-pepper-fry.jpg",
+      image: "masala-kulcha.jpg",
     },
-    { id: "6", name: "Fish Tikka", description: "Marinated and grilled fish", price: "₹469", image: "fish-tikka.jpg" },
+    { id: "6", name: "Stuffed Kulcha", description: "A leavened, flaky North Indian flatbread filled with a spiced stuffing, such as potatoes or paneer, and typically cooked until crispy on a tawa or in a tandoor.", price: "₹469", image: "stuffed-kulcha.jpg" },
     {
       id: "7",
-      name: "Lobster Thermidor",
-      description: "Premium lobster dish",
+      name: "Paneer Kulcha",
+      description: "A popular, leavened North Indian flatbread, often crispy on the outside and soft inside, that is generously stuffed with a flavorful and spiced mixture of crumbled Indian cottage paneer.",
       price: "₹799",
-      image: "lobster-thermidor.jpg",
+      image: "paneer-kulcha.jpg",
     },
     {
       id: "8",
-      name: "Mussels Marinara",
-      description: "Mussels in tomato sauce",
+      name: "Lachha Paratha",
+      description: "A popular North Indian multi-layered, flaky flatbread known for its unique, crispy texture and soft interior.",
       price: "₹459",
-      image: "mussels-marinara.jpg",
+      image: "lachha-paratha.jpg",
     },
-    { id: "9", name: "Prawn Koliwada", description: "Spicy fried prawns", price: "₹479", image: "prawn-koliwada.jpg" },
-    { id: "10", name: "Pomfret Fry", description: "Whole fish crispy fry", price: "₹529", image: "pomfret-fry.jpg" },
+    { id: "9", name: "Petai Paratha", description: "a uniquely soft and flaky textured roti", price: "₹479", image: "petai-paratha.jpg" 
+    },
+    { id: "10", name: "Cheese Naan", description: "A soft, pillowy Indian flatbread generously stuffed with gooey, melted cheese.", price: "₹529", image: "cheese-naan.jpg" },
+    {
+      id: "11",
+      name: "Cheese Chilli Naan",
+      description: "A soft, fluffy Indian flatbread generously stuffed with a fiery blend of green chillies and gooey, melted cheese.",
+      price: "₹349",
+      image: "cheese-chilli-naan.jpg",
+    },
+    {
+      id: "12",
+      name: "Aloo Paratha",
+      description: "A classic Indian unleavened whole wheat flatbread stuffed with a spiced, tangy mashed potato filling.",
+      price: "₹349",
+      image: "aloo-paratha.jpg",
+    },
+    {
+      id: "13",
+      name: "Garlic Naan",
+      description: "A soft, pillowy Indian flatbread generously infused with aromatic garlic and butter.",
+      price: "₹349",
+      image: "garlic-naan.jpg",
+    },
   ],
   taori: [
     {
@@ -580,7 +602,7 @@ const menuData: Record<string, MenuItem[]> = {
     },
   ],
   chinesenonveg: [
-    { id: "1", name: "Chilli Chicken", description: "Crispy, deep-fried chicken tossed in a spicy, tangy sauce with onions, capsicum, ginger, and garlic. ", price: "₹69", image: "chilli-chicken.jpg" 
+    { id: "1", name: "Chilli Chicken", description: "Crispy, deep-fried chicken tossed in a spicy, tangy sauce with onions, capsicum, ginger, and garlic.", price: "₹69", image: "chilli-chicken.jpg" 
    },
     { id: "2", name: "Chicken Manchurian", description: "Crispy fried chicken in a spicy, tangy, and slightly sweet sauce", price: "₹79", image: "chicken-manchurian.jpg" },
     {
@@ -588,7 +610,7 @@ const menuData: Record<string, MenuItem[]> = {
       name: "Chicken 65",
       description: "Spicy deep-fried chicken with tender interior, and crispy exterior",
       price: "₹89",
-      image: Chicken-65.jpg",
+      image: "Chicken-65.jpg",
     },
     { id: "4", name: "Dragon Chicken", description: "Crispy, deep-fried chicken strips tossed in a spicy, sweet, and tangy sauce with bell peppers, onions, and crunchy cashews.", price: "₹29", image: "dragon-chicken.jpg" 
     },
