@@ -16,7 +16,7 @@ const allCategories: Category[] = [
   { id: "biryani", name: "Biryani", image: "biryani.jpg" },
   { id: "rice", name: "Rice Items", image: "salad.jpg" },
   { id: "chicken", name: "Chicken Main Course", image: "dessert.jpg" },
-  { id: "chinese", name: "Chinese", image: "chinese.jpg" },
+  { id: "mutton", name: "Mutton Main Course", image: "chinese.jpg" },
   { id: "mexican", name: "Mexican", image: "mexican.jpg" },
   { id: "seafood", name: "Seafood", image: "seafood.jpg" },
   { id: "tandoori", name: "Tandoori", image: "tandoori.jpg" },
