@@ -446,7 +446,7 @@ const menuData: Record<string, MenuItem[]> = {
     { id: "9", name: "Prawn Koliwada", description: "Spicy fried prawns", price: "₹479", image: "prawn-koliwada.jpg" },
     { id: "10", name: "Pomfret Fry", description: "Whole fish crispy fry", price: "₹529", image: "pomfret-fry.jpg" },
   ],
-  tandoori: [
+  taori: [
     {
       id: "1",
       name: "Tandoori Chicken",
