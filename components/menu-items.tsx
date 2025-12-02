@@ -574,36 +574,40 @@ const menuData: Record<string, MenuItem[]> = {
     {
       id: "8",
       name: "Peri Peri French Fries",
-      description: "Fragrant coconut infused",
+      description: "Crispy Fried Potato Slices with Peri Peri Sauce",
       price: "₹259",
       image: "peri-peri-french-fries.jpg",
     },
-    { id: "9", name: "Garlic Rice", description: "Aromatic garlic rice", price: "₹249", image: "garlic-rice.jpg" },
-    { id: "10", name: "Mixed Rice", description: "Mixed vegetables and rice", price: "₹289", image: "mixed-rice.jpg" },
   ],
-  breads: [
-    { id: "1", name: "Naan", description: "Traditional Indian flatbread", price: "₹69", image: "naan.jpg" },
-    { id: "2", name: "Butter Naan", description: "Naan with butter", price: "₹79", image: "butter-naan.jpg" },
+  chinesenonveg: [
+    { id: "1", name: "Chilli Chicken", description: "Crispy, deep-fried chicken tossed in a spicy, tangy sauce with onions, capsicum, ginger, and garlic. ", price: "₹69", image: "chilli-chicken.jpg" 
+   },
+    { id: "2", name: "Chicken Manchurian", description: "Crispy fried chicken in a spicy, tangy, and slightly sweet sauce", price: "₹79", image: "chicken-manchurian.jpg" },
     {
       id: "3",
-      name: "Garlic Naan",
-      description: "Naan with garlic and butter",
+      name: "Chicken 65",
+      description: "Spicy deep-fried chicken with tender interior, and crispy exterior",
       price: "₹89",
-      image: "garlic-naan.jpg",
+      image: Chicken-65.jpg",
     },
-    { id: "4", name: "Roti", description: "Whole wheat flatbread", price: "₹29", image: "roti.jpg" },
-    { id: "5", name: "Paratha", description: "Layered flatbread", price: "₹49", image: "paratha.jpg" },
+    { id: "4", name: "Dragon Chicken", description: "Crispy, deep-fried chicken strips tossed in a spicy, sweet, and tangy sauce with bell peppers, onions, and crunchy cashews.", price: "₹29", image: "dragon-chicken.jpg" 
+    },
+    { id: "5", name: "Hot Garlic Chicken", description: "Spicy Indo-Chinese dish featuring crispy chicken pieces tossed in a fiery, garlic-loaded sauce", price: "₹49", image: "hot-garlic-chicken.jpg" },
     {
       id: "6",
-      name: "Stuffed Paratha",
-      description: "Paratha with filling",
+      name: "Chicken Wings (BBQ Sauce)",
+      description: "Chicken pieces coated in a thick, tangy, sweet, and savory sauce, often with a smoky flavor. ",
       price: "₹69",
-      image: "stuffed-paratha.jpg",
+      image: "chicken-wings.jpg",
     },
-    { id: "7", name: "Rumali Roti", description: "Thin paper-thin bread", price: "₹39", image: "rumali-roti.jpg" },
-    { id: "8", name: "Puri", description: "Deep fried bread", price: "₹49", image: "puri.jpg" },
-    { id: "9", name: "Kulcha", description: "Stuffed Indian bread", price: "₹79", image: "kulcha.jpg" },
-    { id: "10", name: "Bhatura", description: "Large fried bread", price: "₹59", image: "bhatura.jpg" },
+    { id: "7", name: "Butter Garlic Chicken", description: "Tender chicken, pan-fried or grilled, and coated in a rich, savory, and creamy sauce made from butter, garlic, and other seasonings like herbs or chili flakes", price: "₹39", image: "butter-garlic-chicken.jpg" 
+    },
+    { id: "8", name: "Chicken Lollipop", description: "Made from frenched chicken winglets or drumettes, where the meat is cut loose from the bone end and pushed down to create a round, "lollipop" shape around the exposed bone", price: "₹49", image: "chicken-lollipop.jpg" 
+    },
+    { id: "9", name: "Drums of Heaven", description: "Crispy, deep-fried chicken lollipops that have been tossed in a rich, sweet, and spicy sauce", price: "₹79", image: "drums-of-heaven.jpg" 
+    },
+    { id: "10", name: "Crispy Chicken", description: "Deep fried Chicken that has an extremely crunchy and crispy exterior while the meat inside remains soft and juicy", price: "₹59", image: "crispy-chicken.jpg" },
+    { id: "11", name: "Fried Chicken", description: "Chicken pieces coated in a seasoned batter or breading and then fried until crispy and golden brown, with a juicy and tender interior.", price: "₹79", image: "fried-chicken.jpg" },
   ],
   appetizer: [
     { id: "1", name: "Samosa", description: "Crispy fried pastry", price: "₹79", image: "samosa.jpg" },
