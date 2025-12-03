@@ -25,8 +25,9 @@ export default function MenuSection({ category, onBack }: MenuSectionProps) {
     starter: "Starters and Momos",
     rolls: "Rolls and Sandwiches",
     soup: "Soup",
-    beverage: "Beverages",
     drinks: "Drinks",
+    beverage: "Beverages",
+    
   
   }
 
