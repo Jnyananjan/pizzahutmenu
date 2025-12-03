@@ -17,6 +17,7 @@ const menuData: Record<string, MenuItem[]> = {
       price: "₹399",
       image: "https",
     },
+<h2>Hi</h2>
     {
       id: "2",
       name: "Pepperoni Pizza",
