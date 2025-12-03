@@ -701,6 +701,29 @@ const menuData: Record<string, MenuItem[]> = {
       price: "₹169",
       image: "chicken-sandwich.jpg",},  
 ],
+    soup: [
+    { id: "1", name: "Veg Manchow Soup", description: "Delecious pure veg soup", price: "₹99", image: "veg-manchow-soup.jpg" },
+    { id: "2", name: "Veg Hot & Sour Soup", description: "Delecious hot and vej soup", price: "₹129", image: "veg-hot-sour-soup.jpg" },
+    { id: "3", name: "Chicken Manchow Soup", description: "Hot Manchow Soup with Chicken", price: "₹129", image: "chicken-manchow-soup.jpg" },
+    { id: "4", name: "Chicken Hot & Sour Soup", description: "Delecuous Hot and sour Chicken soup", price: "₹79", image: "chicken-hot-sour-soup.jpg" },
+    { id: "5", name: "Lemon Coriander Soup (Chicken/Veg)", description: "Orange or apple juice", price: "₹99", image: "lemon-coriander-soup.jpg" },
+    ],
+
+  drinks: [
+    { id: "1", name: "Coke", description: "Chilled Coke", price: "₹119", image: "coke.jpg" },
+    { id: "2", name: "Sprite", description: "Chilled Sprite", price: "₹69", image: "sprite.jpg" },
+    { id: "3", name: "Masala Coke", description: "Chilled Coke with mixed Masala", price: "₹89", image: "masala-coke.jpg" },
+    { id: "4", name: "Fresh Lime Soda", description: "Chilled and Fresh lime soda", price: "₹119", image: "fresh-lime-soda.jpg" },
+    { id: "5", name: "Lemon Water", description: "Chilled Lemon Water", price: "₹69", image: "lemon-water.jpg" },
+    { id: "6", name: "Mint Mojito", description: "Mint flavoured Mojito", price: "₹99", image: "mint-mojito.jpg" },
+    { id: "7", name: "Blue Lagoon Mojito", description: "Blue colour Lagoon Mojito", price: "₹129", image: "blue-lagoon-mojito.jpg" },
+    { id: "8", name: "Strawberry Mojito", description: "Strawberry Flavour Mojito", price: "₹129", image: "strawberry-mojito.jpg" },
+    { id: "9", name: "Blueberry Mojito", description: "Blueberry flavour Mojito", price: "₹79", image: "blueberry-mojito.jpg" },
+    { id: "10", name: "Green Apple Mojito", description: "Green Apple Flavour Mojito", price: "₹99", image: "green-apple-mojito.jpg" },
+    { id: "11", name: "Pineapple Mojito", description: "Pineapple Flavour Mojito", price: "₹149", image: "pineapple-mojito.jpg" },
+    { id: "12", name: "Orange Mojito", description: "Orange Flavour Mojito", price: "₹59", image: "orange-mojito.jpg" },
+  ],
+
   beverage: [
     { id: "1", name: "Lassi", description: "Yogurt drink", price: "₹99", image: "lassi.jpg" },
     { id: "2", name: "Mango Lassi", description: "Mango yogurt drink", price: "₹129", image: "mango-lassi.jpg" },
