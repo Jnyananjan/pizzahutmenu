@@ -663,7 +663,7 @@ const menuData: Record<string, MenuItem[]> = {
     { id: "5", name: "Chicken Popcorn", description: "Chicken wings pakora", price: "₹149", image: "chicken-popcorn.jpg" },
     { id: "6", name: "Chicken Fingers", description: "Crispy Chicken Fingers", price: "₹129", image: "chicken-fingers.jpg" },
     { id: "7", name: "Fish Fingers", description: "Fried fish pieces", price: "₹229", image: "fish-fingers.jpg" },
-    { id: "8", name: "momo"}
+    { id: "8", image: "momo.jpg"}
   ],
   momos: [
     { id: "1", name: "Veg Momo (Fried/Steamed)", description: "Veg Momo", price: "₹109", image: "veg-momo.jpg" },
