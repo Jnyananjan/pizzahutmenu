@@ -25,8 +25,9 @@ const allCategories: Category[] = [
   { id: "indiansidedishes", name: "Indian Side Dishes (Veg)", image: "indiansidedishes.jpg" },
   { id: "starter", name: "Starters and Momos", image: "starter.jpg" },
   { id: "rolls", name: "Rolls and Sandwiches", image: "rolls.jpg" },
+  { id: "soup", name: "Soup", image: "soup.jpg" },
   { id: "beverage", name: "Beverages", image: "beverage.jpg" },
-  { id: "jana", name: "jana", image: "bevege.jpg" },
+  { id: "drinks", name: "Drinks", image: "drinks.jpg" },
 ]
 
 interface CategoriesSectionProps {
