@@ -23,7 +23,7 @@ export default function MenuSection({ category, onBack }: MenuSectionProps) {
     tandooribreads: "Tandoori Breads",
     indiansidedishes: "Indian Side Dishes (Veg)",
     starter: "Starters and Momos",
-    roll: "Rolls and Sandwiches",
+    rolls: "Rolls and Sandwiches",
     beverage: "Beverages",
     jana: "jana",
   
