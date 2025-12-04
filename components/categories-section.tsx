@@ -15,7 +15,7 @@ const allCategories: Category[] = [
   { id: "pasta", name: "Pasta", image: "pasta.jpg" },
   { id: "biryani", name: "Biryani", image: "biryani.jpg" },
   { id: "rice", name: "Rice Items", image: "salad.jpg" },
-  { id: "chicken", name: "Chicken Main Course", image: "dessert.jpg" },
+  { id: "chicken", name: "Chicken Main Course", image: "https://ik.imagekit.io/jnyananjan/categoryicon/chicken-main-course.jpg?updatedAt=1764841459159" },
   { id: "mutton", name: "Mutton Main Course", image: "chinese.jpg" },
   { id: "tandoori", name: "Tandoori Chicken", image: "mexican.jpg" },
   { id: "noodles", name: "Noodles", image: "noodles.jpg" },
