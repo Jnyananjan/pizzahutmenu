@@ -53,7 +53,7 @@ export default function CategoriesSection({ onSelectCategory }: CategoriesSectio
           <button
             key={category.id}
             onClick={() => handleCategoryClick(category.id)}
-            className="flex flex-col items-center justify-center p-0 rounded-full bg-card hover:bg-card/80 border border-border/50 transition-all duration-300 hover:scale-105 hover:border-primary/50 group w-24 h-24 overflow-hidden"
+            className="flex flex-col items-center justify-center p-1 rounded-full bg-card hover:bg-card/80 border border-border/50 transition-all duration-300 hover:scale-105 hover:border-primary/50 group w-24 h-24 overflow-hidden"
           >
             <Image
               src={category.image || "/placeholder.svg"}
