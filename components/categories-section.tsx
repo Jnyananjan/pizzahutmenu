@@ -11,7 +11,7 @@ interface Category {
 
 const allCategories: Category[] = [
   { id: "pizza", name: "Pizza", image: "https://ik.imagekit.io/jnyananjan/categoryicon/pizza.jpg?updatedAt=1764841459135" },
-  { id: "burger", name: "Burgers", image: "https://ik.imagekit.io/jnyananjan/categoryicon/burgers.jpg?updatedAt=1764841459103" },
+  { id: "burger", name: "Burgers", image: "https://dhkyzhpqoreeytuyeioj.supabase.co/storage/v1/object/public/Foodmenue/images%20(41).jpeg" },
   { id: "pasta", name: "Pasta", image: "https://ik.imagekit.io/jnyananjan/categoryicon/pasta.jpg?updatedAt=1764841459157" },
   { id: "biryani", name: "Biryani", image: "https://ik.imagekit.io/jnyananjan/categoryicon/biryani.jpg?updatedAt=1764841459114" },
   { id: "rice", name: "Rice Items", image: "https://ik.imagekit.io/jnyananjan/categoryicon/rice-items.jpg?updatedAt=1764841459108" },
