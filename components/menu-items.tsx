@@ -43,7 +43,7 @@ const menuData: Record<string, MenuItem[]> = {
       name: "Veg Carnival Pizza",
       description: "Four cheese blend",
       price: "₹-",
-      image: "/item/vej-carnival-pizza.jpg",
+      image: "/item/veg-carnival-pizza.jpg",
     },
     {
       id: "6",
