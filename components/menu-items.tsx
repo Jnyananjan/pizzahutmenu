@@ -595,26 +595,26 @@ const menuData: Record<string, MenuItem[]> = {
       name: "Veg Hakka Noodles",
       description: "Stir-fried chow mein style",
       price: "₹90",
-      image: "/item/veg-hakka-noodles.jpg",
+      image: "/item/veg-hakka.jpg",
     },
-    { id: "2", name: "Egg Hakka Noodles", description: "Stir-fried chow mein style with egg", price: "₹109", image: "/item/egg-hakka-noodles.jpg" 
+    { id: "2", name: "Egg Hakka Noodles", description: "Stir-fried chow mein style with egg", price: "₹109", image: "/item/egg-hakka.jpg" 
     },
-    { id: "3", name: "Chicken Hakka Noodles", description: "Stir-fried chow mein style with chicken", price: "₹129", image: "/item/chicken-hakka-noodles.jpg" },
+    { id: "3", name: "Chicken Hakka Noodles", description: "Stir-fried chow mein style with chicken", price: "₹129", image: "/item/chicken-hakka.jpg" },
     {
       id: "4",
       name: "Mixed Hakka Noodles",
       description: "Stir-fried chow mein style",
       price: "₹149",
-      image: "/item/mixed-hakka-noodles.jpg",
+      image: "/item/mixed-hakka.jpg",
     },
     {
       id: "5",
       name: "Veg Schezwan Noodles",
       description: "Made with dried red chilies, garlic, and Sichuan peppercorns",
       price: "₹99",
-      image: "/item/veg-schezwan-noodles.jpg",
+      image: "/item/veg-schezwan.jpg",
     },
-    { id: "6", name: "Egg Schezwan Noodles", description: "Noodles with Egg and a spicy and tangy sauce made from red chilies, garlic, and other aromatic spices", price: "₹120", image: "/item/egg-schezwan-noodles.jpg" 
+    { id: "6", name: "Egg Schezwan Noodles", description: "Noodles with Egg and a spicy and tangy sauce made from red chilies, garlic, and other aromatic spices", price: "₹120", image: "/item/egg-schezwan.jpg" 
 },
    
     {
@@ -622,14 +622,14 @@ const menuData: Record<string, MenuItem[]> = {
       name: "Chicken Schezwan Noodles",
       description: "Noodles with chicken and  a spicy and tangy sauce made from red chilies, garlic, and other aromatic spices",
       price: "₹139",
-      image: "/item/chicken-schezwan-noodles.jpg",
+      image: "/item/chicken-schezwan.jpg",
     },
     {
       id: "8",
       name: "Mixed Schezwan Noodles",
       description: "Combination of vegetables, and often chicken, eggs, or prawns, in a spicy, tangy, and pungent Schezwan sauce. ",
       price: "₹159",
-      image: "/item/mixed-schezwan-noodles.jpg",
+      image: "/item/mixed-schezwan.jpg",
     },
   ],
   chineseveg: [
