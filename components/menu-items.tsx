@@ -15,7 +15,7 @@ const menuData: Record<string, MenuItem[]> = {
       name: "Margherita Cheese Pizza",
       description: "Classic tomato, mozzarella, basil",
       price: "₹-",
-      image: "/item/margherita-cheese-pizza.jph",
+      image: "/item/margherita-cheese-pizza.jpg",
     },
     {
       id: "2",
@@ -401,7 +401,7 @@ const menuData: Record<string, MenuItem[]> = {
       name: "Chicken Seekh Kebab (6 pc)", 
       description: "A portion of 6 grilled skewers made from minced chicken and a blend of spices, often served as an appetizer or meal", 
       price: "₹180",
-      image: "/item/chicken-sheek-kabab.jpg"
+      image: "/item/chicken-seekh-kabab.jpg"
     },
     {
       id: "5",
