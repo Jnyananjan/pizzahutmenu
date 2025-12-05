@@ -66,7 +66,8 @@ export default function Footer() {
                 className="w-12 h-12 bg-primary hover:bg-opacity-80 rounded-full flex items-center justify-center transition-all transform hover:scale-110"
                 title="Follow on Instagram"
               >
-                <span className="text-2xl">📷</span>
+                <img src="/insta.jpg" alt="Instagram" className="w-full h-full object-cover" />
+
               </a>
 
               <a
