@@ -77,7 +77,7 @@ export default function Footer() {
                 className="w-12 h-12 bg-primary hover:bg-opacity-80 rounded-full flex items-center justify-center transition-all transform hover:scale-110"
                 title="Follow on Facebook"
               >
-                <img src="icons/facebook.png" alt="Facebook" className="w-full h-full object-cover" />
+                <img src="/facebook.png" alt="Facebook" className="w-full h-full object-cover" />
 
               </a>
 
