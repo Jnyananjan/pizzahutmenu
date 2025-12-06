@@ -4,10 +4,10 @@ import { useEffect, useState, useRef } from "react"
 import { ChevronLeft, ChevronRight } from "lucide-react"
 
 const offers = [
-  { id: 1, title: "50% OFF Pizza", subtitle: "On orders above $50", image: "offer1.jpg" },
-  { id: 2, title: "30% OFF Burgers", subtitle: "Valid this weekend", image: "offer2.jpg" },
-  { id: 3, title: "Free Dessert", subtitle: "With every main course", image: "offer3.jpg" },
-  { id: 4, image: "offer4.jpg" },
+  { id: 1, title: "50% OFF Pizza", subtitle: "On orders above $50", image: "/offers/offer1.jpg" },
+  { id: 2, title: "30% OFF Burgers", subtitle: "Valid this weekend", image: "/offers/offer2.jpg" },
+  { id: 3, title: "Free Dessert", subtitle: "With every main course", image: "/offers/offer3.jpg" },
+  { id: 4, image: "/offers/offer4.jpg" },
 ]
 
 export default function OffersCarousel() {
