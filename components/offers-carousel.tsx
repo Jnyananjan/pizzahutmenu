@@ -58,7 +58,7 @@ export default function OffersCarousel() {
                 alt={offer.title}
                 className="absolute inset-0 w-full h-full object-cover"
               />
-              <div className="absolute inset-0 bg-black/40" />
+              <div className="absolute inset-0" />
               <div className="relative z-10 text-left">
                 <h2 className="text-3xl font-bold text-white mb-2">{offer.title}</h2>
                 <p className="text-gray-100">{offer.subtitle}</p>
