@@ -12,7 +12,7 @@ export default function Footer() {
                 <span className="text-2xl mt-1">📍</span>
                 <div>
                   <p className="font-semibold text-foreground">Location</p>
-                  <p>123 Restaurant Street, Food City, FC 12345</p>
+                  <p>119 min roed, Pizza Hut and kitchen, near bands bank</p>
                 </div>
               </div>
 
@@ -20,8 +20,8 @@ export default function Footer() {
                 <span className="text-2xl">📞</span>
                 <div>
                   <p className="font-semibold text-foreground">Phone</p>
-                  <a href="tel:+1234567890" className="hover:text-primary transition-colors">
-                    +1 (234) 567-890
+                  <a href="tel:+918391098926" className="hover:text-primary transition-colors">
+                    +91 8391 098 926
                   </a>
                 </div>
               </div>
@@ -30,8 +30,8 @@ export default function Footer() {
                 <span className="text-2xl">✉️</span>
                 <div>
                   <p className="font-semibold text-foreground">Email</p>
-                  <a href="mailto:info@restaurant.com" className="hover:text-primary transition-colors">
-                    info@restaurant.com
+                  <a href="mailto:kitchenpizzahut@gmail.com" className="hover:text-primary transition-colors">
+                    kitchenpizzahut@gmail.com
                   </a>
                 </div>
               </div>
@@ -43,15 +43,8 @@ export default function Footer() {
             <h3 className="text-xl font-bold text-primary mb-4">Hours</h3>
             <div className="space-y-2 text-muted-foreground">
               <p>
-                <span className="font-semibold text-foreground">Monday - Friday:</span> 11:00 AM - 11:00 PM
+                <span className="font-semibold text-foreground">Monday - Sunday:</span> 10:00 AM - 11:00 PM
               </p>
-              <p>
-                <span className="font-semibold text-foreground">Saturday:</span> 12:00 PM - 12:00 AM
-              </p>
-              <p>
-                <span className="font-semibold text-foreground">Sunday:</span> 12:00 PM - 10:00 PM
-              </p>
-              <p className="text-sm mt-4 text-primary font-semibold">Closed on Mondays</p>
             </div>
           </div>
 
@@ -82,7 +75,7 @@ export default function Footer() {
               </a>
 
               <a
-                href="https://wa.me/1234567890"
+                href="https://wa.me/+918391098926?text=Hello+I+want+to+Order"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-12 h-12 bg-primary hover:bg-opacity-80 rounded-full flex items-center justify-center transition-all transform hover:scale-110"
