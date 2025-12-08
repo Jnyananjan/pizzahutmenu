@@ -10,7 +10,8 @@ interface Category {
 }
 
 const allCategories: Category[] = [
-  { id: "pizza", name: "Pizza", image: "/icon/pizza.jpg" },
+  { id: "vegpizza", name: "Veg Pizza", image: "/icon/vegpizza.jpg" },
+  { id: "nonvegpizza", name: "Non Veg Pizza", image: "/icon/nonvegpizza.jpg" },
   { id: "burger", name: "Burgers", image: "/icon/burgers.jpg" },
   { id: "pasta", name: "Pasta", image: "/icon/pasta.jpg" },
   { id: "biryani", name: "Biryani", image: "/icon/biryani.jpg" },
@@ -28,6 +29,8 @@ const allCategories: Category[] = [
   { id: "soup", name: "Soup", image: "/icon/soup.jpg" },
   { id: "drinks", name: "Drinks", image: "/icon/drinks.jpg" },
   { id: "beverage", name: "Beverages", image: "/icon/beverages.jpg" },
+  { id: "raita", name: "Raita and Salad", image: "/icon/raita.jpg" },
+  { id: "others", name: "Others", image: "/icon/others.jpg" },
  
 ]
 
