@@ -11,7 +11,7 @@ const recommendedItems = [
   },
   { id: "3", name: "Chicken Maharaja Burger", price: "₹150", image: "/item/chicken-maharaja-burger.jpg", trending: true },
   { id: "4", name: "Chicken Momo", price: "₹90", image: "/item/chicken-momo.jpg", trending: false },
-  { id: "5", name: "Cappuccino", price: "₹299", image: "/item/cappuccino.jpg", trending: false },
+  { id: "5", name: "Cappuccino", price: "₹79", image: "/item/cappuccino.jpg", trending: false },
   
 ]
 
