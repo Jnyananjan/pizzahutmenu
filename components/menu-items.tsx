@@ -92,7 +92,7 @@ const menuData: Record<string, MenuItem[]> = {
       name: "Paneer Makhani Pizza",
       description: "S / M / L / XL",
       price: "₹165/ ₹225/ ₹305/ ₹409",
-      image: "/item/paneer-makhni-pizza.jpg",
+      image: "/item/paneer-makhani-pizza.jpg",
     },
     {
       id: "13",
@@ -157,7 +157,7 @@ const menuData: Record<string, MenuItem[]> = {
       name: "Chicken Keema Pizza",
       description: "S / M / L / XL",
       price: "₹179/ ₹234/ ₹329/ ₹420",
-      image: "/item/chicken-kima-pizza.jpg",
+      image: "/item/chicken-keema-pizza.jpg",
     },
     {
       id: "7",
@@ -931,7 +931,7 @@ raita: [
       id: "1",
       name: "Water",
       description: "500ml, 1L",
-      price: "₹",
+      price: "₹10/₹20",
       image: "/item/water.jpg",
     },
 	  
