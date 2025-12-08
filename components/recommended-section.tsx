@@ -1,18 +1,18 @@
 "use client"
 
 const recommendedItems = [
-  { id: "1", name: "Margherita Pizza", price: "₹399", image: "margherita-pizza.jpg", trending: true },
+  { id: "1", name: "Farm Delight Pizza", price: "₹149/ ₹199/ ₹259/ ₹360", image: "/item/farm-delight-pizza.jpg", trending: true },
   {
     id: "2",
     name: "Hyderabadi Chicken Biryani",
-    price: "₹349",
-    image: "hyderabadi-chicken-biryani.jpg",
+    price: "₹160",
+    image: "/item/hyderabadi-chicken-biryani.jpg",
     trending: true,
   },
-  { id: "3", name: "Double Deluxe Burger", price: "₹499", image: "double-deluxe-burger.jpg", trending: true },
-  { id: "4", name: "Spaghetti Carbonara", price: "₹399", image: "spaghetti-carbonara.jpg", trending: false },
-  { id: "5", name: "Caesar Salad", price: "₹299", image: "caesar-salad.jpg", trending: false },
-  { id: "6", name: "Chocolate Cake", price: "₹249", image: "chocolate-cake.jpg", trending: false },
+  { id: "3", name: "Chicken Maharaja Burger", price: "₹150", image: "/item/chicken-majaraja-burger.jpg", trending: true },
+  { id: "4", name: "Chicken Momo", price: "₹90", image: "/item/chicken-momo.jpg", trending: false },
+  { id: "5", name: "Cappuccino", price: "₹299", image: "/item/cappuccino.jpg", trending: false },
+  
 ]
 
 export default function RecommendedSection() {
