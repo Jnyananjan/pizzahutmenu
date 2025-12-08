@@ -89,7 +89,7 @@ const menuData: Record<string, MenuItem[]> = {
     },
     {
       id: "12",
-      name: "Paneer Makhni Pizza",
+      name: "Paneer Makhani Pizza",
       description: "S / M / L / XL",
       price: "₹165/ ₹225/ ₹305/ ₹409",
       image: "/item/paneer-makhni-pizza.jpg",
@@ -154,9 +154,9 @@ const menuData: Record<string, MenuItem[]> = {
     },
     {
       id: "6",
-      name: "Chicken Kima Pizza",
+      name: "Chicken Keema Pizza",
       description: "S / M / L / XL",
-      price: "₹-",
+      price: "₹179/ ₹234/ ₹329/ ₹420",
       image: "/item/chicken-kima-pizza.jpg",
     },
     {
@@ -164,7 +164,7 @@ const menuData: Record<string, MenuItem[]> = {
       name: "Peri Peri Chicken Pizza",
       description: "S / M / L / XL",
       price: "₹179/ ₹234/ ₹335/ ₹429",
-      image: "-",
+      image: "/item/peri-peri-chicken-pizza.jpg",
     },
     {
       id: "8",
