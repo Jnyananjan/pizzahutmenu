@@ -9,7 +9,8 @@ interface MenuSectionProps {
 
 export default function MenuSection({ category, onBack }: MenuSectionProps) {
   const categoryNames: Record<string, string> = {
-    pizza: "Pizza",
+    vegpizza: "Veg Pizza",
+    nonvegpizza: "Non Veg Pizza",
     burger: "Burgers",
     pasta: "Pasta",
     biryani: "Biryani",
@@ -27,7 +28,8 @@ export default function MenuSection({ category, onBack }: MenuSectionProps) {
     soup: "Soup",
     drinks: "Drinks",
     beverage: "Beverages",
-    
+    raita: "Raita and Salad",
+    others: "Others",
   
   }
 
