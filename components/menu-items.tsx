@@ -712,17 +712,18 @@ const menuData: Record<string, MenuItem[]> = {
     { id: "5", name: "Chicken Popcorn", description: "Chicken wings pakora", price: "₹140", image: "/item/chicken-popcorn.jpg" },
     { id: "6", name: "Chicken Fingers", description: "Crispy Chicken Fingers", price: "₹150", image: "/item/chicken-fingers.jpg" },
     { id: "7", name: "Fish Fingers", description: "Fried fish pieces", price: "₹170", image: "/item/fish-fingers.jpg" },
-    
-    { id: "8", name: "Veg Momo (8 pc)", description: "Veg Momo", price: "₹70", image: "/item/veg-momo.jpg" },
-    { id: "9", name: "Chicken Momo (8 pc)", description: "Chicken momo", price: "₹90", image: "/item/chicken-momo.jpg" },
+     { id: "8", name: "Fish Fry", description: "Fried fish pieces", price: "₹170", image: "/item/fish-fry.jpg" },
+   
+    { id: "9", name: "Veg Momo (8 pc)", description: "Veg Momo", price: "₹70", image: "/item/veg-momo.jpg" },
+    { id: "10", name: "Chicken Momo (8 pc)", description: "Chicken momo", price: "₹90", image: "/item/chicken-momo.jpg" },
     {
-      id: "10",
+      id: "11",
       name: "Sizzler Momo (Veg/Non-Veg)",
       description: "Sizzler Momo",
       price: "₹90/₹110",
       image: "/item/sizzler-momo.jpg",},
     {
-      id: "11",
+      id: "12",
       name: "Kurkure Momo (Veg/Non-Veg)",
       description: "Sizzler Momo",
       price: "₹90/₹110",
