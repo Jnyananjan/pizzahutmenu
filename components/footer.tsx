@@ -12,7 +12,7 @@ export default function Footer() {
                 <span className="text-2xl mt-1">📍</span>
                 <div>
                   <p className="font-semibold text-foreground">Location</p>
-                  <p>119 min roed, Pizza Hut and kitchen, near bands bank</p>
+                  <p>Pizza Hut and kitchen, near bands bank</p>
                 </div>
               </div>
 
@@ -20,8 +20,8 @@ export default function Footer() {
                 <span className="text-2xl">📞</span>
                 <div>
                   <p className="font-semibold text-foreground">Phone</p>
-                  <a href="tel:+918391098926" className="hover:text-primary transition-colors">
-                    +91 8391 098 926
+                  <a href="tel:+91 1234567890" className="hover:text-primary transition-colors">
+                    +91 1234 567 890
                   </a>
                 </div>
               </div>
@@ -30,8 +30,8 @@ export default function Footer() {
                 <span className="text-2xl">✉️</span>
                 <div>
                   <p className="font-semibold text-foreground">Email</p>
-                  <a href="mailto:kitchenpizzahut@gmail.com" className="hover:text-primary transition-colors">
-                    kitchenpizzahut@gmail.com
+                  <a href="mailto:example@gmail.com" className="hover:text-primary transition-colors">
+                    example@gmail.com
                   </a>
                 </div>
               </div>
@@ -75,7 +75,7 @@ export default function Footer() {
               </a>
 
               <a
-                href="https://wa.me/+918391098926?text=Hello+I+want+to+Order"
+                href="https://wa.me/+911234567890"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-12 h-12 bg-primary hover:bg-opacity-80 rounded-full flex items-center justify-center transition-all transform hover:scale-110"
