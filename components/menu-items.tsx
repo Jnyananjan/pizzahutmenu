@@ -171,7 +171,7 @@ const menuData: Record<string, MenuItem[]> = {
       name: "PizzaHut Special Pizza",
       description: "S / M / L / XL",
       price: "₹185/ ₹249/ ₹345/ ₹430",
-      image: "/item/pizzaHut-special-pizza.jpg",
+      image: "/item/pizzahut-special-pizza.jpg",
     },
     {
       id: "9",
