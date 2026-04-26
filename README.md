@@ -24,7 +24,7 @@ Built with **performance + simplicity in mind**, especially for clients who donâ
 
 ## âœ¨ Preview
 
-<img src="https://ibb.co/vxTXjT3r"  />
+
 <a href="https://ibb.co/vxTXjT3r"><img src="https://i.ibb.co/F9YmnPL/Screenshot-2026-04-26-210712.png" alt="Preview" width="100%" /></a>
 
 ---
